@@ -3,8 +3,8 @@
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=martimvalente.martimvalente)
 
 
-I'm a 19 year old student aspiring to become an engineer.
-My interests include Information Security and Data Science.
+I'm a 19 year old student aspiring to become a software engineer.
+My interests include Back-End Development and Data Engineering.
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35px"/></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="35px"/></span>&nbsp;
