@@ -1,6 +1,6 @@
 <img align="left" src="assets/server.png" width="230">
 
-## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  style="max-widht: 25px" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=martimvalente.martimvalente)
+## Hello World! ![](https://visitor-badge.glitch.me/badge?page_id=martimvalente.martimvalente)
 
 
 I'm a student aspiring to become a software engineer.
