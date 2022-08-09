@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Martim 👋</h1>![](https://visitor-badge.glitch.me/badge?page_id=martimvalente.martimvalente)
-<h3 align="center">A Computer Engeneering Student from Portugal!</h3>
+<h1 align="center">Hi, I'm Martim 👋</h1>
+<h4 align="center">A Computer Engeneering Student from Portugal, focusing on Back-End development and automation</h4>
 
  
 
