@@ -1,5 +1,5 @@
 ## Hi, I'm Martim 👋
-#### An Eletrical and Computer Engineering Student from Portugal!
+#### An Electrical and Computer Engineering Student from Portugal!
 
 
 #### 🌐 Socials:
