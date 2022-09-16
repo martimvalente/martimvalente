@@ -1,5 +1,5 @@
 ## Hi, I'm Martim 👋
-#### A Computer Engeneering Student from Portugal, focusing on Back-End development and automation
+#### An Eletrical and Computer Engineering Student from Portugal!
 
 
 #### 🌐 Socials:
