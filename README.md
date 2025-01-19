@@ -1,4 +1,4 @@
-<p align="left">🎯 Technologies I'm working with now:</p>
+<p align="left">🎯 Stack I'm working with now:</p>
 
 <div align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=plastic" height="20" alt="c logo"  />
